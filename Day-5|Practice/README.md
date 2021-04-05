@@ -4,7 +4,7 @@
 
   > Input-1: 2000 | Ouput-1: Leap Year! <br>
   > Input-2: 2004 | Ouput-2: Leap Year! <br>
-  > Input-3: 2000 | Ouput-3: Not a Leap Year! <br>
+  > Input-3: 1700 | Ouput-3: Not a Leap Year! <br>
 
 - #### Write a code, that asks for `n` and then takes `n` integers and stores in an array. Output the first number that is positive and even.
 
